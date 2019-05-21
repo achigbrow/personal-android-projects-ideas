@@ -11,21 +11,22 @@ An app where the parent can set configure a daily checklist of activities childe
 
 ### Alana Images
 
-! [requirements] (img/requirements.jpg)
-! [parent user story] (img/userstory.jpg)
-! [child task flow] (img/taskflow.jpg)
+![requirements](img/requirements.jpg)  
+![parent user story](img/userstory.jpg)  
+![child task flow](img/taskflow.jpg)   
 
 ## Jennifer Diaz
-External sensors
-Remote to control digital light installation
-arduino/galileo with sensor
+External sensors     
+Remote to control digital light installation     
+arduino/galileo with sensor  
 
-AR App for stemulus
-Website like the one Elizabeth showed in undergrad
-
+AR App for stemulus   
+Website like the one Elizabeth showed in undergrad   
+ 
 ## John Bailey
-im still completely lost
-ideas: Fitness tracker, Gaming, Alcohol based app
+im still completely lost    
+ideas: Fitness tracker, Gaming, Alcohol based app   
 
 ## Anita Martin
-! [Anit's Idea] (img/anita.png)
+
+![Anita's Idea](img/anita.png)
