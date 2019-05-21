@@ -11,7 +11,9 @@ An app where the parent can set configure a daily checklist of activities childe
 
 ### Alana Images
 
-! [requiremnts] (img\requiremnts.jpg)
+! [requirements] (img/requirements.jpg)
+! [parent user story] (img/userstory.jpg)
+! [child task flow] (img/taskflow.jpg)
 
 ## Jennifer Diaz
 External sensors
@@ -26,3 +28,4 @@ im still completely lost
 ideas: Fitness tracker, Gaming, Alcohol based app
 
 ## Anita Martin
+! [Anit's Idea] (img/anita.png)
