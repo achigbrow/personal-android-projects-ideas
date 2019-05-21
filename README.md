@@ -11,7 +11,7 @@ An app where the parent can set configure a daily checklist of activities childe
 
 ### Alana Images
 
-! [requiremnts] (img/requiremnts.jpg)
+! [requiremnts] (img\requiremnts.jpg)
 
 ## Jennifer Diaz
 External sensors
